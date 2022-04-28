@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://github.com/francescoleoni98">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescoleoni98&count_private=true" alt="francescoleoni98's GitHub Languages" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescoleoni98&card_width=250&count_private=true" alt="francescoleoni98's GitHub Languages" />
 </a>
 
 ## 👨🏻‍💻 Repos 
